@@ -1,0 +1,19 @@
+#search_field {
+	/*margin-bottom: 200px;*/
+}
+
+#search-load {
+	padding-top: 250px;
+}
+
+#no-result-card {
+	margin-top: 85px;
+}
+
+#error-card {
+	margin-top: 85px;
+}
+
+#autocomplete-dropdown {
+	margin-top: 10px;
+}
